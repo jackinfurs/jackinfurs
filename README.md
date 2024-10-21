@@ -2,7 +2,9 @@
 
 <!--- ![welcome](insert hyperlink to gif)-->
 <p align="center">
-    <img src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=0995e0"/>
+    <picture>
+        <img src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=0995e0"/>
+    </picture>
 </p>
 
 <!--- ![aboutme](insert hyperlink to gif)-->
@@ -19,11 +21,15 @@
 -->
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,py,scala,mysql,html,css,bash,latex,gitlab"/>
+    <picture>
+        <img src="https://skillicons.dev/icons?i=c,java,py,scala,mysql,html,css,bash,latex,gitlab"/>
+    </picture>
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
+    <picture>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
+    </picture>
     <!--- 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackinfurs&theme=github_dark"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackinfurs&theme=github_dark"/>
