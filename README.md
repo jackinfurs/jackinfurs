@@ -30,12 +30,32 @@
     <picture>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
     </picture>
-    <!--- 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackinfurs&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackinfurs&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackinfurs&theme=github_dark"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackinfurs&theme=github_dark&utcOffset=8"/>
-    -->
 </p>
+
+<!---
+<p align="center">
+    <picture>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jackinfurs&theme=github_dark"/>
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jackinfurs&theme=github_dark"/>
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jackinfurs&theme=github_dark"/>
+    </picture>
+</p>
+
+<p align="center">
+    <picture>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jackinfurs&theme=github_dark&utcOffset=8"/>
+    </picture>
+</p>
+-->
 
 <!--- ![endDivider](insert hyperlink to gif)-->
