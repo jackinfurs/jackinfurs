@@ -9,7 +9,7 @@
 
 <!--- ![aboutme](insert hyperlink to gif)-->
 <p align="center"> 
->    computer science student at ucd.<br/>
+>    third year computer science student at university college dublin.<br/>
 >    in my spare time i'm a service engineer, musician, (film) photographer, and reader.<br/>
 >    you can contact me at jackdunne626 [at] gmail.com.<br/>
 </p>
