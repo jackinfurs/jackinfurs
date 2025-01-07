@@ -1,8 +1,7 @@
 
 <!--- ![welcome](insert hyperlink to gif)-->
-<!--- could ideally wrap this in an anchor tag applying Source/app/modules/functions.py::make_link_page(). may fork.-->
 <p align="center">
-    <a href="https://jackinfurs.pythonanywhere.com/link" target="_blank" rel="noopener noreferrer">
+    <a href="https://jackinfurs.pythonanywhere.com/link">
         <img
             src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=0995e0"
             alt="current song"
