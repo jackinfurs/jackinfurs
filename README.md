@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://jackinfurs.pythonanywhere.com/link">
         <img
-            src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=0e1117"
+            src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360"
             alt="current song"
         />
     </a>
