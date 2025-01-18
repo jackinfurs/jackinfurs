@@ -12,7 +12,7 @@
 <!--- ![aboutme](insert hyperlink to gif)-->
 <p align="center"> 
 >    third year computer science student at university college dublin.<br/>
->    in my spare time i'm a service engineer, musician, (film) photographer, and reader.<br/>
+>    in my spare time i am a service engineer, musician, (film) photographer, and an avid reader.<br/>
 >    you can contact me at jackdunne626 [at] gmail.com.<br/>
 </p>
 
