@@ -14,7 +14,8 @@
 >    fourth year computer science student at university college dublin.<br/>
 >    in my spare time i am a service engineer, musician, (film) photographer, and an avid reader.<br/>
 >    i have an aptitude for high-performance computing. that is what i'm looking to do post-grad.<br/>
->    you can contact me at jackinfurs [at] gmail.com.<br/>
+>    you can contact me at jackinfurs [at] gmail [dot] com.<br/>
+>    you can also find me on <a href="https://codeberg.org/jackinfurs">codeberg.</a><br/>
 </p>
 
 <!--- ![repos](insert hyperlink to gif)-->
