@@ -1,21 +1,12 @@
 
-<!--- ![welcome](insert hyperlink to gif)-->
-<p align="center">
-    <a href="https://jackinfurs.pythonanywhere.com/link">
-        <img
-            src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360"
-            alt="current song (refresh if not loading)"
-        />
-    </a>
-</p>
-
 <!--- ![aboutme](insert hyperlink to gif)-->
+<h1>jackinfurs</h1>
+
 <p align="center"> 
->    fourth year computer science student at university college dublin.<br/>
->    in my spare time i am a service engineer, musician, (film) photographer, and an avid reader.<br/>
->    i have an aptitude for high-performance computing. that is what i'm looking to do post-grad.<br/>
->    you can contact me at jackinfurs [at] gmail [dot] com.<br/>
->    you can also find me on <a href="https://codeberg.org/jackinfurs">codeberg.</a><br/>
+>    fourth year computer science student at ucd, with an aptitude for hpc/sysadmin.<br/>
+>    in my spare time i am a service engineer, musician, (film) photographer, reader, etc.<br/>
+>    you can contact me at <strong>me [at] jackinfurs [dot] ie</strong>,<br/>
+>    with more info on <a href="https://jackinfurs.ie/">jackinfurs.ie</a>
 </p>
 
 <!--- ![repos](insert hyperlink to gif)-->
@@ -25,6 +16,9 @@
 -->
 
 <p align="center">
+    <a href="https://jackinfurs.pythonanywhere.com/link">
+        <img src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360" alt="current song (refresh if not loading)"/>
+    </a>
     <picture>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
     </picture>
