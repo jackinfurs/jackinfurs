@@ -17,10 +17,10 @@
 
 <p align="center">
     <a href="https://jackinfurs.pythonanywhere.com/link">
-        <img src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360" alt="current song (refresh if not loading)"/>
+        <img style="width: 75%;" src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360" alt="current song (refresh if not loading)"/>
     </a>
     <picture>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
+        <img style="width: 75%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackinfurs&theme=github_dark"/>
     </picture>
 </p>
 
