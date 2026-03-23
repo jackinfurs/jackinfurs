@@ -16,9 +16,11 @@
 -->
 
 <p align="center">
-    <a href="https://jackinfurs.pythonanywhere.com/link">
+   <!-- 
+   <a href="https://jackinfurs.pythonanywhere.com/link">
         <img width="75%" src="https://jackinfurs.pythonanywhere.com?theme=dark&eq_color=66d360" alt="there's supposed to be a widget for spotify here, but you'll have to refresh to see it."/>
     </a>
+   -->
     <picture>
         <img width="75%" src="https://raw.githubusercontent.com/jackinfurs/jackinfurs/main/profile-summary-card-output/github_dark/0-profile-details.svg"/>
     </picture>
@@ -27,5 +29,3 @@
         <img width="37.5%" src="https://raw.githubusercontent.com/jackinfurs/jackinfurs/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"/>
     </picture>
 </p>
-
-<!--- ![endDivider](insert hyperlink to gif)-->
